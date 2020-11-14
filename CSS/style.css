@@ -29,3 +29,22 @@ p{
 .newDivClass{
     font-size: 25px;
 }
+.border1{
+    border:1px solid black;
+}
+.dis{
+    display:none;
+}
+
+.divStyle {
+    border: 5px solid red;
+    width: 200px;
+    height: 50px;
+}
+.dobackground{
+    background-color: darkorange;
+}
+
+#canibal{
+    display:none;
+}
