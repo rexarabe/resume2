@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+
+}
+h1{
+    font-size:50px;
+    color: darkgray;
+    text-align: center;
+}
+p{
+    font-size: 14px;
+}
+.redHeading
+{
+    color: red;
+    font-size: 20px;
+}
+.testClassName
+{
+    color: #008b5a;
+    size: 50px;
+    font-family: "Fira Code Retina";
+    font-style: italic;
+}
+#p_6{
+    font-size:70px;
+    font-style: oblique;
+}
+.newDivClass{
+    font-size: 25px;
+}
