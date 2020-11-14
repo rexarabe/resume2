@@ -48,3 +48,31 @@ p{
 #canibal{
     display:none;
 }
+li{
+    display: inline-block;
+    list-style: none;
+    font-family: C059;
+    font-style: italic;
+    border: 5px solid red;
+    width: 200px;
+    height:50px;
+    text-align: center;
+    text-transform: uppercase;
+    size: 50px;
+    font-size: 20px;
+}
+
+body{
+    display: inline-block;
+}
+header{
+    height: 120px;
+    background-color: aquamarine;
+}
+
+nav > ul > li
+{
+    display :inline-block;
+    border: 1px solid blue;
+    padding: 10px;
+}
